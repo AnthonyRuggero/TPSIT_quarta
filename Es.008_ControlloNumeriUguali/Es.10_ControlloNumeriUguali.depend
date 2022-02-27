@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637243189 source:d:\scuola\quarta\tpsit\c\es.10_controllonumeriuguali\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
