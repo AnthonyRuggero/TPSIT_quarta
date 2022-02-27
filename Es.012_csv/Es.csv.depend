@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633951946 source:c:\users\antho\desktop\scuola\quarta\tpsit\c\es.csv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
